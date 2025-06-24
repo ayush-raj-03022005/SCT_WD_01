@@ -2,7 +2,8 @@
 
 A modern, interactive navigation-based landing page with a responsive layout and smooth UI transitions.
 
-![MySite Screenshot](./Screenshot 2025-06-24 092658.png)
+
+![MySite Screenshot](./Screenshot%202025-06-24%20092658.png)
 
 ## ✨ Features
 
