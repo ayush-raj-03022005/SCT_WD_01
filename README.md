@@ -2,7 +2,7 @@
 
 A modern, interactive navigation-based landing page with a responsive layout and smooth UI transitions.
 
-![MySite Screenshot](./a75ddcb4-cdac-4767-89d6-406154af1722.png)
+![MySite Screenshot](./Screenshot 2025-06-24 092658.png)
 
 ## ✨ Features
 
@@ -24,12 +24,3 @@ A modern, interactive navigation-based landing page with a responsive layout and
 - JavaScript (Vanilla)
 - Responsive Web Design Principles
 
-## 📁 Folder Structure
-
-```plaintext
-/
-├── index.html
-├── style.css
-├── script.js
-└── assets/
-    └── a75ddcb4-cdac-4767-89d6-406154af1722.png
